@@ -1,0 +1,24 @@
+﻿  ermosh.cpp
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(72,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(75,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(77,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(80,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(94,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(166,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(174,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(179,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(190,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(206,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(212,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(218,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(230,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(260,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(269,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(303,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(284,23): warning C4101: nt: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(284,16): warning C4101: nov: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(325,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(326,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Иван\Desktop\jabb\fr\ermosh\ermosh\ermosh.cpp(338,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ermosh.vcxproj -> C:\Users\Иван\Desktop\jabb\fr\ermosh\x64\Debug\ermosh.exe

@@ -1,0 +1,16 @@
+15
+	Donk 2004 700000 Frager Grey
+	Magixx 1999 500000 Sniper Grey
+	Dupreeh 1996 200000 Lurker Red
+	Device 1996 900000 Sniper Black 
+	Glave 1998 450000 Captain Yellow
+	Magisk 1999 850000 Support Blue 
+	Electrinik 1997 1500000 Lurker White 
+	Fallen 1991 70000 Frager Green 
+	Karrigan 1992 780000 Captain Red 
+	Coldzero 1990 210000 Sniper Green  
+	Twistzz 2000 1000000 Support Purple 
+	Perfecto 2000 400000 Support Blue 
+	Niko 1998 850000 Frager Black  
+	Rain 1997 230000 Lurker Red  
+	Olof 1991 100000 Sniper Green
